@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/11 14:52:22.000.157,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/20 15:40:49.000.480,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/20 15:41:07.000.052,C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDFPosicao.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/20 15:41:07.000.052,C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDFPosicao.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/20 15:41:28.000.083,C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\LeitorPDF.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/20 16:07:05.000.818,=C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\lib\PdfiumCore.pas</Transaction>
+    <Transaction>2024/05/20 16:07:05.000.887,=C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\lib\PdfiumLib.pas</Transaction>
+    <Transaction>2024/05/20 16:07:05.000.844,=C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\lib\PdfiumCtrl.pas</Transaction>
+    <Transaction>2024/05/20 18:06:17.000.214,C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\RecortePDF.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\LeitorPDF.dproj</Transaction>
+    <Transaction>2024/05/20 18:07:33.000.590,C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\RecortePDF.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\LeitorPDF\RecortePDF.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
